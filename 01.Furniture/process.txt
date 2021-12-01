@@ -1,0 +1,12 @@
+1. Extract project skeleton and examine files
+2. Setup NPM project (package.json + libraries)
+3. Analyze the HTML and determine templates
+4. Configure routing with placeholder modules - 
+    check when going on a given link there's no error
+5. Implement requests - with the logic in api.js
+6. Implement each view
+6.1 Create static templates - copy/paste ffrom HTML
+6.2 Implement fetch requests - get data
+6.3 Add parameters to template - make HTML dynamic
+6.4 Add event listerners (if any) - add additional functionality 
+    to the view
